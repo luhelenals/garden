@@ -34,3 +34,4 @@ This function renders each flower as a pair of ellipses for petals and a circle 
 Simply click anywhere on the canvas to create a flower. Each click will generate a new flower with random attributes at the click position.
 
 ## Preview
+![garden preview](https://github.com/user-attachments/assets/b135117c-77d4-42c8-b4bb-1992b81220e2)
